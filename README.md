@@ -1,6 +1,8 @@
 # Cryptoplus - ICO Landing Page
 > Template ICO project for cryptocurrencies
 
+### See in - https://lizzardmedeiros.github.io/cryptoplus-ico/
+
 ## Features
 	- Responsive
 	- Multi Language Support
